@@ -12,6 +12,8 @@ A SAR foi criada para facilitar pequenas funções, como: Play/pause de músicas
 Tudo isso sem enconstar no computador, apenas batendo palma ou falando.
 Por meio de uma pequena aplicção de python a SAR detecta palmas e quando uma pessoa fala e por meio disso executa o que lhe foi programado.
 
+Além de contar com uma aplicação usada para testar (teste.py) e configurar a sensibilidade e frames necessários para detectação das palmas e falas.
+
 ## Desenvolvedor
 
 -  Gabriel Assis Brasil
